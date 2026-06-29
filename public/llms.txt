@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://footballzone-b72d9dc2.zappy5.app
+https://example.com
 חנות חולצות כדורגל אונליין ישראל עם המבחר הגדול של חולצות כדורגל מקוריות לקנייה. הצטרפו לתרבות המעריצים ולבשו את הגאווה של הקבוצה שלכם עוד היום!
 
 ### הסיפור שלנו
-https://footballzone-b72d9dc2.zappy5.app/brand-story
+https://example.com/brand-story
 צללו לסיפור שמאחורי Footballzone, המותג שחי ונושם כדורגל. מהאהבה למשחק ועד חולצות כדורגל שמספרות סיפור — הכירו את המסע הייחודי שלנו.
 
 ### גלריית תרבות מעריצים
-https://footballzone-b72d9dc2.zappy5.app/fan-culture-gallery
+https://example.com/fan-culture-gallery
 היכנסו לגלריית תרבות המעריצים של Footballzone וחגגו את האנרגיה הבלתי נגמרת של המגרשים. חולצות כדורגל, צבעים ורגעים בלתי נשכחים מחכים לכם.
 
 ### צור קשר
-https://footballzone-b72d9dc2.zappy5.app/contact
+https://example.com/contact
 יש שאלה על חולצות כדורגל מקוריות או סתם בא לכם לפטפט על המשחק? צרו קשר עם צוות Footballzone ונשמח לעזור לכם במהירות ובחיוך.
 
 ### Products
-https://footballzone-b72d9dc2.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Footballzone
 
 ### Cart
-https://footballzone-b72d9dc2.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://footballzone-b72d9dc2.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://footballzone-b72d9dc2.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://footballzone-b72d9dc2.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://footballzone-b72d9dc2.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://footballzone-b72d9dc2.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Footballzone
 
 ### Category
-https://footballzone-b72d9dc2.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Footballzone
 
 ### תודה על פנייתך
-https://footballzone-b72d9dc2.zappy5.app/thank-you
+https://example.com/thank-you
 Footballzone - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://footballzone-b72d9dc2.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://footballzone-b72d9dc2.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://footballzone-b72d9dc2.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -100,8 +100,8 @@ Sports Apparel E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://footballzone-b72d9dc2.zappy5.app/sitemap.xml
-- Robots: https://footballzone-b72d9dc2.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://footballzone-b72d9dc2.zappy5.app/llms-full.txt
-- Products (JSON): https://footballzone-b72d9dc2.zappy5.app/products.json
-- Products (Google Merchant RSS): https://footballzone-b72d9dc2.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
