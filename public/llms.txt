@@ -7,69 +7,69 @@
 ## Pages
 
 ### Nexykit
-https://example.com
+https://footballzone.zappy5.app
 חנות חולצות כדורגל אונליין ישראל עם המבחר הגדול של חולצות כדורגל מקוריות לקנייה. הצטרפו לתרבות המעריצים ולבשו את הגאווה של הקבוצה שלכם עוד היום!
 
 ### הסיפור שלנו
-https://example.com/brand-story
+https://footballzone.zappy5.app/brand-story
 צללו לסיפור שמאחורי Footballzone, המותג שחי ונושם כדורגל. מהאהבה למשחק ועד חולצות כדורגל שמספרות סיפור — הכירו את המסע הייחודי שלנו.
 
 ### גלריית תרבות מעריצים
-https://example.com/fan-culture-gallery
+https://footballzone.zappy5.app/fan-culture-gallery
 היכנסו לגלריית תרבות המעריצים של Footballzone וחגגו את האנרגיה הבלתי נגמרת של המגרשים. חולצות כדורגל, צבעים ורגעים בלתי נשכחים מחכים לכם.
 
 ### צור קשר
-https://example.com/contact
+https://footballzone.zappy5.app/contact
 יש שאלה על חולצות כדורגל מקוריות או סתם בא לכם לפטפט על המשחק? צרו קשר עם צוות Footballzone ונשמח לעזור לכם במהירות ובחיוך.
 
 ### Products
-https://example.com/products
+https://footballzone.zappy5.app/products
 המוצרים שלנו - Footballzone
 
 ### Cart
-https://example.com/cart
+https://footballzone.zappy5.app/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://example.com/checkout
+https://footballzone.zappy5.app/checkout
 תשלום
 
 ### Login
-https://example.com/login
+https://footballzone.zappy5.app/login
 התחברות לקוחות
 
 ### Account
-https://example.com/account
+https://footballzone.zappy5.app/account
 החשבון שלי
 
 ### Order Success
-https://example.com/order-success
+https://footballzone.zappy5.app/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://example.com/product/:slug
+https://footballzone.zappy5.app/product/:slug
 פרטי המוצר - Footballzone
 
 ### Category
-https://example.com/category/:slug
+https://footballzone.zappy5.app/category/:slug
 מוצרים - Footballzone
 
 ### תודה על פנייתך
-https://example.com/thank-you
+https://footballzone.zappy5.app/thank-you
 Footballzone - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://footballzone.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://footballzone.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://footballzone.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -100,8 +100,8 @@ Sports Apparel E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://footballzone.zappy5.app/sitemap.xml
+- Robots: https://footballzone.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://footballzone.zappy5.app/llms-full.txt
+- Products (JSON): https://footballzone.zappy5.app/products.json
+- Products (Google Merchant RSS): https://footballzone.zappy5.app/product-feed.xml
